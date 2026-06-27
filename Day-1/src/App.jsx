@@ -1,12 +1,12 @@
-import Dikshya from "./Dikshya"
-
+import Variable from './Variable'
 
 function App() {
  
 
   return (
     <>
-    <Dikshya/>
+    <Variable/>
+  
     </>
   )
 }
